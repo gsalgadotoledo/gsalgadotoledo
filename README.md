@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @gsalgadotoledo
-- 👀 I’m interested in a teaching or technical PO position
-- 🌱 I’m currently learning functional programming
-- 💞️ I’m looking to collaborate on a react project as a freelancer
-- 📫 How to reach me ... gsalgadotoledo@gmail.com
+# Gustavo Salgado
 
-<!---
-gsalgadotoledo/gsalgadotoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI Product Manager | Full Stack Engineer**
+
+Building agentic AI systems that automate real business workflows. 10+ years shipping web apps, now focused on LLM-powered products.
+
+### 🔭 Currently
+- Product Manager at an insurtech startup — designing AI pipelines that process insurance submissions autonomously
+- Building with **LangGraph**, **Claude**, **FastAPI**, **React 19**
+
+### 🚀 Featured
+- [**agents-extractor**](https://github.com/gsalgadotoledo/agents-extractor) — AI-powered platform where LLM agents read broker emails, extract data from PDFs, and manage underwriting workflows
+
+### 🛠️ Stack
+`Python` `TypeScript` `React` `FastAPI` `LangGraph` `Claude` `Node.js` `AWS`
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/gustavo-salgado-javascript-developer/) · gsalgadotoledo@gmail.com
+
