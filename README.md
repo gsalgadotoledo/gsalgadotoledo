@@ -29,8 +29,9 @@ JavaScript/TypeScript, also Python and Go — on AWS with infrastructure as code
 - [**video-editor-plugin-template**](https://github.com/gsalgadotoledo/video-editor-plugin-template)
   — plugin template for a desktop video editor (Electron + Rust engine) whose commands the built-in
   assistant can call through MCP.
-- [**gsalgadotoledo.github.io**](https://gsalgadotoledo.github.io) — my site: one portfolio page per
-  year, each in the web style of its time. Static, prerendered, Lighthouse 100.
+- [**gsalgadotoledo.github.io/resume**](https://gsalgadotoledo.github.io/resume/) — my resume as a
+  story you scroll: the agent's trace, the runtime diagram, the stack as a manifest. Static,
+  prerendered, CSS scroll-driven animations, no dependencies.
 
 Remote OS — conversations with agents on your own server, with tools on the server and on your
 machines — is private for now. Happy to walk through it.
